@@ -8,4 +8,4 @@
 <br>
 ![Static Badge](https://img.shields.io/badge/3.14.7-FFD43B?style=plastic&logo=python&logoColor=fff&label=Python&labelColor=306998)
 <br>
-![Static Badge](https://img.shields.io/badge/3.1.3-000?style=plastic&logo=python&logoColor=fff&label=Flask&labelColor=44abbf)
+![Static Badge](https://img.shields.io/badge/3.1.3-000?style=plastic&logo=flask&logoColor=fff&label=Flask&labelColor=44abbf)
